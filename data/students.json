@@ -1,0 +1,82 @@
+[
+  {
+    "id": "s1",
+    "name": "Alex Johnson",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex"
+  },
+  {
+    "id": "s2",
+    "name": "Maya Patel",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Maya"
+  },
+  {
+    "id": "s3",
+    "name": "Jordan Lee",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan"
+  },
+  {
+    "id": "s4",
+    "name": "Sam Chen",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sam"
+  },
+  {
+    "id": "s5",
+    "name": "Riley Smith",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Riley"
+  },
+  {
+    "id": "s6",
+    "name": "Taylor Brown",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Taylor"
+  },
+  {
+    "id": "s7",
+    "name": "Morgan Davis",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Morgan"
+  },
+  {
+    "id": "s8",
+    "name": "Casey Wilson",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Casey"
+  },
+  {
+    "id": "s9",
+    "name": "Jamie Garcia",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jamie"
+  },
+  {
+    "id": "s10",
+    "name": "Avery Martinez",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Avery"
+  },
+  {
+    "id": "s11",
+    "name": "Quinn Anderson",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Quinn"
+  },
+  {
+    "id": "s12",
+    "name": "Drew Thomas",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Drew"
+  },
+  {
+    "id": "s13",
+    "name": "Parker White",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Parker"
+  },
+  {
+    "id": "s14",
+    "name": "Sage Kim",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sage"
+  },
+  {
+    "id": "s15",
+    "name": "Reese Lopez",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Reese"
+  },
+  {
+    "id": "s16",
+    "name": "Blake Miller",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Blake"
+  }
+]
