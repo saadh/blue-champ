@@ -1,0 +1,308 @@
+{
+  "math": [
+    {
+      "id": "m1",
+      "text": "What is 7 × 8?",
+      "options": ["54", "56", "63", "64"],
+      "correctAnswer": 1,
+      "subject": "Math",
+      "gradeLevel": 3,
+      "points": 100,
+      "timeLimit": 15
+    },
+    {
+      "id": "m2",
+      "text": "What is 1/2 + 1/4?",
+      "options": ["1/2", "2/6", "3/4", "1/6"],
+      "correctAnswer": 2,
+      "subject": "Math",
+      "gradeLevel": 4,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "m3",
+      "text": "What is the perimeter of a square with sides of 5 cm?",
+      "options": ["10 cm", "15 cm", "20 cm", "25 cm"],
+      "correctAnswer": 2,
+      "subject": "Math",
+      "gradeLevel": 4,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "m4",
+      "text": "What is 15% of 200?",
+      "options": ["15", "25", "30", "35"],
+      "correctAnswer": 2,
+      "subject": "Math",
+      "gradeLevel": 6,
+      "points": 100,
+      "timeLimit": 25
+    },
+    {
+      "id": "m5",
+      "text": "If x + 5 = 12, what is x?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 2,
+      "subject": "Math",
+      "gradeLevel": 5,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "m6",
+      "text": "What is the area of a triangle with base 6 and height 4?",
+      "options": ["10", "12", "18", "24"],
+      "correctAnswer": 1,
+      "subject": "Math",
+      "gradeLevel": 6,
+      "points": 100,
+      "timeLimit": 25
+    },
+    {
+      "id": "m7",
+      "text": "What is 3² + 4²?",
+      "options": ["7", "12", "25", "49"],
+      "correctAnswer": 2,
+      "subject": "Math",
+      "gradeLevel": 5,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "m8",
+      "text": "How many degrees are in a right angle?",
+      "options": ["45°", "60°", "90°", "180°"],
+      "correctAnswer": 2,
+      "subject": "Math",
+      "gradeLevel": 4,
+      "points": 100,
+      "timeLimit": 15
+    },
+    {
+      "id": "m9",
+      "text": "What is 0.5 × 0.5?",
+      "options": ["0.25", "0.5", "1.0", "2.5"],
+      "correctAnswer": 0,
+      "subject": "Math",
+      "gradeLevel": 5,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "m10",
+      "text": "If a rectangle has length 8 and width 3, what is its area?",
+      "options": ["11", "16", "22", "24"],
+      "correctAnswer": 3,
+      "subject": "Math",
+      "gradeLevel": 4,
+      "points": 100,
+      "timeLimit": 20
+    }
+  ],
+  "science": [
+    {
+      "id": "s1",
+      "text": "What is the center of our solar system?",
+      "options": ["Earth", "Moon", "Sun", "Mars"],
+      "correctAnswer": 2,
+      "subject": "Science",
+      "gradeLevel": 3,
+      "points": 100,
+      "timeLimit": 15
+    },
+    {
+      "id": "s2",
+      "text": "What gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "correctAnswer": 2,
+      "subject": "Science",
+      "gradeLevel": 4,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "s3",
+      "text": "How many bones are in the adult human body?",
+      "options": ["186", "206", "226", "246"],
+      "correctAnswer": 1,
+      "subject": "Science",
+      "gradeLevel": 5,
+      "points": 100,
+      "timeLimit": 25
+    },
+    {
+      "id": "s4",
+      "text": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "NaCl"],
+      "correctAnswer": 0,
+      "subject": "Science",
+      "gradeLevel": 6,
+      "points": 100,
+      "timeLimit": 15
+    },
+    {
+      "id": "s5",
+      "text": "What force pulls objects toward Earth?",
+      "options": ["Magnetism", "Friction", "Gravity", "Electricity"],
+      "correctAnswer": 2,
+      "subject": "Science",
+      "gradeLevel": 4,
+      "points": 100,
+      "timeLimit": 15
+    },
+    {
+      "id": "s6",
+      "text": "What is the largest planet in our solar system?",
+      "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+      "correctAnswer": 1,
+      "subject": "Science",
+      "gradeLevel": 4,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "s7",
+      "text": "At what temperature does water freeze (in Celsius)?",
+      "options": ["-10°C", "0°C", "32°C", "100°C"],
+      "correctAnswer": 1,
+      "subject": "Science",
+      "gradeLevel": 3,
+      "points": 100,
+      "timeLimit": 15
+    },
+    {
+      "id": "s8",
+      "text": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Quartz"],
+      "correctAnswer": 2,
+      "subject": "Science",
+      "gradeLevel": 5,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "s9",
+      "text": "How many chambers does the human heart have?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": 2,
+      "subject": "Science",
+      "gradeLevel": 5,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "s10",
+      "text": "What is the speed of light?",
+      "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+      "correctAnswer": 0,
+      "subject": "Science",
+      "gradeLevel": 6,
+      "points": 100,
+      "timeLimit": 25
+    }
+  ],
+  "history": [
+    {
+      "id": "h1",
+      "text": "Who was the first President of the United States?",
+      "options": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"],
+      "correctAnswer": 1,
+      "subject": "History",
+      "gradeLevel": 5,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "h2",
+      "text": "In which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "correctAnswer": 2,
+      "subject": "History",
+      "gradeLevel": 8,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "h3",
+      "text": "What ancient civilization built the pyramids?",
+      "options": ["Greeks", "Romans", "Egyptians", "Mayans"],
+      "correctAnswer": 2,
+      "subject": "History",
+      "gradeLevel": 6,
+      "points": 100,
+      "timeLimit": 15
+    },
+    {
+      "id": "h4",
+      "text": "Who discovered America in 1492?",
+      "options": ["Marco Polo", "Christopher Columbus", "Ferdinand Magellan", "Amerigo Vespucci"],
+      "correctAnswer": 1,
+      "subject": "History",
+      "gradeLevel": 5,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "h5",
+      "text": "What year did the United States declare independence?",
+      "options": ["1775", "1776", "1777", "1778"],
+      "correctAnswer": 1,
+      "subject": "History",
+      "gradeLevel": 5,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "h6",
+      "text": "Who wrote the Declaration of Independence?",
+      "options": ["George Washington", "Benjamin Franklin", "Thomas Jefferson", "John Adams"],
+      "correctAnswer": 2,
+      "subject": "History",
+      "gradeLevel": 6,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "h7",
+      "text": "What was the name of the ship that brought the Pilgrims to America?",
+      "options": ["Santa Maria", "Mayflower", "Nina", "Pinta"],
+      "correctAnswer": 1,
+      "subject": "History",
+      "gradeLevel": 4,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "h8",
+      "text": "Who was the ancient Greek god of the sea?",
+      "options": ["Zeus", "Hades", "Poseidon", "Apollo"],
+      "correctAnswer": 2,
+      "subject": "History",
+      "gradeLevel": 6,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "h9",
+      "text": "What wall divided East and West Germany?",
+      "options": ["Great Wall", "Berlin Wall", "Hadrian's Wall", "Western Wall"],
+      "correctAnswer": 1,
+      "subject": "History",
+      "gradeLevel": 8,
+      "points": 100,
+      "timeLimit": 20
+    },
+    {
+      "id": "h10",
+      "text": "Who was known as the 'Father of History'?",
+      "options": ["Plato", "Aristotle", "Herodotus", "Socrates"],
+      "correctAnswer": 2,
+      "subject": "History",
+      "gradeLevel": 7,
+      "points": 100,
+      "timeLimit": 25
+    }
+  ]
+}
